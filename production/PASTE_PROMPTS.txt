@@ -1,0 +1,68 @@
+ARRIVAL WORLD — PLATFORM 7
+PASTE PROMPTS
+Source for every clip: SOURCE_STILL_A_front.jpg
+Never paste these onto Still B.
+
+Prefer the 25-second continuous take.
+If the tool caps at 5–10s, run the three-clip stitch with the same seed.
+
+================================================================
+25-SECOND CONTINUOUS — PASTE FIRST
+================================================================
+Animate this exact still. Do not generate a new image. Preserve composition, perspective, the yellow tram 82 complete front, open doorway, wet cobbles, rails, iron canopy sign ARRIVAL WORLD PLATFORM 7, tall alien, period commuters, gothic spires, hovering UFO, rain, reflections, steam, lighting, proportions, painterly night style, and the existing lower-right watermark exactly. Do not redesign.
+
+25-second cinematic night shot, locked 9:16. Rainy gothic platform at night. Vintage yellow tram 82 already standing at Platform 7 with its complete front visible and doors open. Continuous rain streaks and puddle reflections for the full duration. UFO holds fixed in the sky. Alien remains almost still, with only a barely perceptible head turn toward the doorway.
+
+Beats:
+0–6s: rain and wet-stone reflections; very slow camera push-in; tram already at the platform; no boarding yet; steam breathes low at the rails.
+6–14s: doors stay open; two or three dark-coated commuters step down from the doorway onto the wet stones; two waiting commuters step up into the tram; movements are unhurried and weighty; alien barely turns its head; no one runs; no new figures appear.
+14–18s: tram doors close smoothly; interior lamps stay warm; track steam thickens slightly at the step and rails.
+18–25s: tram rolls forward along the existing rails, pulling away toward the next station and slightly into depth; camera eases from the slow push into a slight follow of the tram only; UFO does not move closer; rain and reflections continue.
+
+Single continuous shot. No jump cuts. No morphing. No extra text. No speech. Low to medium motion strength. Natural continuous movement only.
+
+Negative lock:
+no redesign, no reconstruction, no beautification, no morphing, no extra text, no new signage, no second tram, no extra UFO, no extra alien, no lightning, no explosion, no beam from the UFO, no camera shake, no whip pan, no orbit, no crash zoom, no racing, no running, no cartoon physics, no plastic CGI, no anime conversion, no facial drift, no disappearing architecture, no warped rails, no changing tram number, no redrawn watermark, no speech, no lip movement.
+
+================================================================
+CLIP 1 — ARRIVE / HOLD
+0–8s story · generate 8–10s and trim
+================================================================
+Animate this exact still. Do not generate a new image. Preserve composition, yellow tram 82 complete front, open doors, passengers already inside, wet cobbles, rails, canopy sign ARRIVAL WORLD PLATFORM 7, tall alien, period commuters standing on the platform, gothic spires, hovering UFO, rain, reflections, low track steam, painterly night style, and existing watermark.
+
+8-second locked 9:16 cinematic night shot. Tram 82 is already stopped at Platform 7 with doors open. Continuous rain on cobbles and bodywork. Puddle reflections shimmer. Thin steam drifts at the rails and doorway. Commuters and the alien hold position with only tiny coat and posture shifts. UFO stays fixed. Very slow camera push-in only. No boarding yet. No departure. No door movement. Low motion strength. Single shot.
+
+Negative lock:
+no redesign, no reconstruction, no beautification, no morphing, no extra text, no new signage, no second tram, no extra UFO, no extra alien, no lightning, no explosion, no beam from the UFO, no camera shake, no whip pan, no orbit, no crash zoom, no racing, no running, no cartoon physics, no plastic CGI, no anime conversion, no facial drift, no disappearing architecture, no warped rails, no changing tram number, no redrawn watermark, no speech, no lip movement.
+
+================================================================
+CLIP 2 — BOARD
+6–14s story · generate 8–10s
+================================================================
+Animate this exact still. Do not generate a new image. Preserve the same world, tram 82, open doorway, canopy, alien, gothic city, UFO, rain, and watermark.
+
+8-second locked 9:16 cinematic night shot. Doors remain open. Two or three dark-coated commuters already near the doorway step down onto the wet platform. Two waiting commuters in overcoats step up into the tram. Movements are slow, heavy, and few. The tall alien barely turns its head toward the door. Rain and reflections continue. Steam stays low at the tracks. Camera almost locked after the previous push; only invisible drift. Tram body does not roll. UFO does not approach. No running. No extra people. No door close yet. Low to medium motion strength. Single shot.
+
+Negative lock:
+no redesign, no reconstruction, no beautification, no morphing, no extra text, no new signage, no second tram, no extra UFO, no extra alien, no lightning, no explosion, no beam from the UFO, no camera shake, no whip pan, no orbit, no crash zoom, no racing, no running, no cartoon physics, no plastic CGI, no anime conversion, no facial drift, no disappearing architecture, no warped rails, no changing tram number, no redrawn watermark, no speech, no lip movement.
+
+================================================================
+CLIP 3 — CLOSE AND DEPART
+14–25s story · generate 10s
+================================================================
+Animate this exact still. Do not generate a new image. Preserve the same world, tram 82 complete front, canopy, alien, gothic city, UFO, rain, and watermark.
+
+10-second locked 9:16 cinematic night shot. First the open tram doors close smoothly. Interior lamps stay warm. Track steam thickens at the step. Then tram 82 rolls forward along the existing rails, pulling away toward the next station into the wet depth. Camera makes a slight follow of the departing tram only. Rain and cobble reflections continue. UFO holds in the sky. Alien and remaining platform figures stay behind on the stones. No jump cut. No morphing. No extra text. Low to medium motion strength. Single shot.
+
+Negative lock:
+no redesign, no reconstruction, no beautification, no morphing, no extra text, no new signage, no second tram, no extra UFO, no extra alien, no lightning, no explosion, no beam from the UFO, no camera shake, no whip pan, no orbit, no crash zoom, no racing, no running, no cartoon physics, no plastic CGI, no anime conversion, no facial drift, no disappearing architecture, no warped rails, no changing tram number, no redrawn watermark, no speech, no lip movement.
+
+================================================================
+STITCH ORDER
+================================================================
+Use SOURCE_STILL_A_front.jpg for every clip. Same seed if the tool allows.
+Trim Clip 1 to rain + push only; end while doors are still clearly open.
+Cut to Clip 2 at an open-door frame; keep boarding modest; discard any morph or extra figure.
+Cut to Clip 3 on the first clean door-close frame; let the tram leave.
+Crossfade, if used, is 8–12 frames only.
+Audio last: rain bed + distant tram motor / rail hiss. No dialogue.
