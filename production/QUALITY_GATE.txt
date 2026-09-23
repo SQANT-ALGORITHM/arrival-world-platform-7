@@ -1,0 +1,48 @@
+ARRIVAL WORLD — PLATFORM 7
+QUALITY GATE — 30 CHECKS
+Reject the take if any item fails. Do not repair a failed world with extra prompt adjectives. Regenerate from Still A.
+
+IDENTITY
+[ ] Tram remains yellow vintage car 82; number does not change; front is not redesigned
+[ ] Complete front stays readable in Clip 1 and at the start of Clip 3
+[ ] Open doorway anatomy matches Still A; ladder step remains
+[ ] Three warm headlights hold; they do not become bars, neon, or extra lamps
+[ ] Canopy sign stays exactly ARRIVAL WORLD / PLATFORM 7
+[ ] Existing lower-right watermark shabbirkabir© is not redrawn, mirrored, enlarged, or moved onto the tram face
+[ ] No new signage anywhere
+
+WORLD NOUNS
+[ ] One tall grey-gold alien only; it does not walk, grow a limb, or become human
+[ ] Alien motion is a barely perceptible head turn at most
+[ ] Four period commuters in dark overcoats and hats; no sprinting; no multiplication
+[ ] Passengers already inside remain dark-coated period figures
+[ ] Gothic cathedral-city skyline remains the same building mass
+[ ] One disc UFO only; it holds altitude; no beam, drop, multiply, or approach
+[ ] Dual rails stay straight and unwarped
+[ ] Wet cobbles and rain persist for the full duration
+[ ] Track steam stays low at doorway and rails; it does not become fog that erases the scene
+
+MOTION
+[ ] Camera is one system only: slow push-in, then slight follow of the departing tram
+[ ] No pan-as-story, tilt, orbit, handheld shake, crash zoom, or travel up to the UFO
+[ ] Boarding is unhurried and few: two or three down, two up
+[ ] Doors close as doors; they do not melt, smear, or vanish
+[ ] Tram rolls only after the close, along existing rails, into depth
+[ ] No jump cuts inside a clip
+[ ] Paint remains painterly cinematic photographic night — not plastic CGI, anime, or cartoon
+
+STITCH HYGIENE
+[ ] Every clip generated from Still A, not Still B
+[ ] Same seed if the tool allows
+[ ] Clip 1 ends on a clearly open door
+[ ] Clip 2 starts on an open door and contains no close and no roll
+[ ] Clip 3 begins on the first clean close frame
+[ ] Crossfade, if used, is 8–12 frames only
+[ ] Discard any take that invents a fifth commuter, a second alien, or a second tram
+
+RESULT
+Date:
+Tool / seed:
+Take ID:
+Pass / Fail:
+Notes:
