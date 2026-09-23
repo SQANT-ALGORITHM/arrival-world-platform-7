@@ -1,0 +1,78 @@
+ARRIVAL WORLD — PLATFORM 7
+I2V PROMPT LOCK
+Channel: My Foto Diary
+Desk: https://gem-birch-wood-beacon.grok.me/desk
+Master plate: SOURCE_STILL_A_front.jpg (1500×2667, 9:16)
+Doorway reference only: SOURCE_STILL_B_threequarter.jpg — NEVER generate motion from Still B
+Watermark already in plate: shabbirkabir© lower-right — do not redraw, do not second-stamp
+Duration lock: 25 seconds
+Aspect: 9:16
+Paint: painterly cinematic photographic night
+Speech: none
+
+================================================================
+WORLD LINE
+================================================================
+On a rainy gothic platform, vintage tram 82 holds at Arrival World Platform 7 while period commuters exchange with a tall grey-gold visitor, a disc craft fixed above the cathedral spires.
+
+================================================================
+WORLD NOUNS (do not invent)
+================================================================
+- Vintage yellow tram 82 — complete front and side, weathered paint, three warm headlights, open doorway with ladder step, warm interior lamps.
+- Passengers in dark coats already inside; four period commuters on the wet stones (two mid-platform with a briefcase, two under the canopy).
+- Tall grey-gold alien under the iron canopy, facing the tram, almost still.
+- Canopy sign exactly: ARRIVAL WORLD / PLATFORM 7. Hanging lantern.
+- Wet cobbles, dual rails toward camera-left / into depth, low track steam.
+- Gothic cathedral-city skyline with lit windows. One disc UFO high above the spires, small warm lights only.
+- Continuous rain, wet reflections, dark storm clouds.
+
+================================================================
+STORY BEATS
+================================================================
+0–6s   ARRIVE / HOLD
+       Rain, wet-stone reflections, low rail steam. Very slow push-in.
+       Tram already stopped. Doors open. No boarding.
+
+6–14s  BOARD
+       Two or three dark-coated figures step down; two waiting commuters step up.
+       Unhurried. Alien barely turns its head.
+
+14–18s CLOSE
+       Doors close smoothly. Interior lamps stay warm. Steam thickens at the step.
+
+18–25s DEPART
+       Tram 82 rolls along existing rails into wet depth.
+       Camera eases into a slight follow. UFO holds. Rain continues.
+
+================================================================
+CAMERA LOCK
+================================================================
+One system only: a slow push-in, then a slight follow of the departing tram.
+No pan as story, no tilt, no orbit, no handheld shake, no zoom-as-drama.
+If the model travels through the city or climbs toward the UFO, reject the take.
+
+================================================================
+NEGATIVE LOCK (paste on every run)
+================================================================
+no redesign, no reconstruction, no beautification, no morphing, no extra text, no new signage, no second tram, no extra UFO, no extra alien, no lightning, no explosion, no beam from the UFO, no camera shake, no whip pan, no orbit, no crash zoom, no racing, no running, no cartoon physics, no plastic CGI, no anime conversion, no facial drift, no disappearing architecture, no warped rails, no changing tram number, no redrawn watermark, no speech, no lip movement.
+
+================================================================
+HIGHEST FAILURE RISKS
+================================================================
+- Boarding morph — extra figures, smear, sprinting. Keep exchange small; discard busy takes.
+- Door melt on close. Require a clean hinge close before allowing roll.
+- Tram number or front redesign.
+- Alien walk / human conversion.
+- UFO approach or beam (common I2V flourish).
+- Camera becoming the story.
+- Watermark redraw.
+
+================================================================
+PRODUCTION ORDER
+================================================================
+1. Animate Still A only.
+2. Prefer the 25-second continuous take.
+3. If the tool caps at 5–10s, run the three-clip stitch with the same seed.
+4. Run QUALITY_GATE.txt. Reject on any fail. Do not repair a failed world with extra adjectives.
+5. Audio last. Picture first.
+6. Thumbnail is a frame from Still A, not a redesigned poster.
